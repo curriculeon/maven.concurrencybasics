@@ -1,7 +1,7 @@
-# Project Title
+# I Concur
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following product-features...
+* **Objective** - To create a `Runner`, which consumes a `ThreadResult`, to be ran by a `Thread`.
+* **Purpose** - To gain familiarity concurrency and threading.
 
 ## Part 1 - Clone the project
 * Begin by _forking_ this project into a personal repository.
