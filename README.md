@@ -1,4 +1,4 @@
-# I Concur
+# I Concur (Under Construction)
 
 * **Objective** - To create a `Runner`, which consumes a `ThreadResult`, to be ran by a `Thread`.
 * **Purpose** - To gain familiarity concurrency and threading.
